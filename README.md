@@ -16,7 +16,7 @@
 
 ## General info
 
-This project is an ecommerce website for AgriPlus farming co-operate, which offers the farmers a platform where they can reach their customers throut the country to shop or sell their farm products and interact with their customers so that they can deliver good farm products. Users can sign up and have their own account where they can buy and order farm produce from the farmers, harvesters, and producers.To facilitate communication with the customer and farmers, the page also lists some of their services and a contact form plus an additional form where they can subscribe to news letter from Agriplus of any intresting farming deals or offers.
+This project is an online store for the AgriPlus agricultural cooperative, which gives farmers a platform to connect with consumers across the nation and sell or buy their produce while interacting with them to produce high-quality produce. Users can register and create an account, from which they can buy and order agricultural products from the growers. The page also has a description of some of their services, a contact form, and an additional form that allows users to sign up for Agriplus's newsletter to receive notifications of any interesting farming bargains or offers. This facilitates communication with both customers and farmers.
 
 ## Technologies
 
@@ -33,6 +33,8 @@ To run this project, clone or download it from git hub. Using Live server or you
 ## Live GitHub Pages Link
 
 The webpage address:
+
+https://denisouma.github.io/agri-plus/
 
 ## License information
 
