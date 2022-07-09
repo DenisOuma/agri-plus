@@ -172,3 +172,37 @@ active {
 #explor-btn:hover {
 	box-shadow: #ed661f 0px 2px 4px 0px, #ed661f 0px 2px 16px 0px;
 }
+
+/* styling the Description Section  */
+.description-sec {
+	display: flex;
+	align-items: center;
+	/* justify-content: space-between; */
+	margin: 70px auto 10px;
+	width: 90%;
+}
+/* .container-descr {
+	width: 50%;
+} */
+.container-descr > img {
+	width: 700px;
+}
+.text-title {
+	box-sizing: border-box;
+	margin-bottom: 2px;
+}
+.rule-line {
+	height: 4px;
+	width: 14%;
+	margin-left: 0;
+	margin-top: 0;
+	padding-top: 0;
+	border: none;
+}
+.container-descr > p {
+	font-size: 15px;
+}
+.container-description {
+	width: 100;
+	word-wrap: break-word;
+}
