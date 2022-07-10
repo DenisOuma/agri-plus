@@ -291,13 +291,12 @@ body {
 	margin-left: 9px !important;
 }
 .empty-con {
-	height: 25px;
-	background-color: grey;
+	height: 30px;
+	background-color: lightgray;
+	border-top: 2px solid grey;
 	margin-top: 80px;
 	margin-bottom: 20px;
-	-webkit-box-shadow: 0px -10px 4px -4px rgba(0, 0, 0, 0.6);
-	-moz-box-shadow: 0px -10px 4px -4px rgba(0, 0, 0, 0.6);
-	box-shadow: 0px -10px 4px -4px rgba(0, 0, 0, 0.6);
+	box-shadow: 0px 3px 3px 0px grey inset;
 }
 
 /* Rating section styling */
