@@ -22,9 +22,13 @@ This project is an online store for the AgriPlus agricultural cooperative, which
 
     Project is created with:
 
-        - HTML
-        - CSS
-        - Google Fonts and Icons
+        - HTML - Is used to build the structure of the pages.
+        - CSS - Is used to style the pages
+        - Google Fonts and Icons - Is used to impliment the icons and the fonts on the page
+
+## Requirements
+
+-Either a computer, Ipad, tablet or phone -An access to internet connection
 
 ## Program Setup
 
