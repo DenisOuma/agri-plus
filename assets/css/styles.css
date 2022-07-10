@@ -340,8 +340,6 @@ body {
 	display: flex;
 	align-items: center;
 	box-sizing: border-box;
-	/* width: 80%; */
-	/* justify-content: space-between; */
 }
 .profile-details .profile-img {
 	height: 50px;
@@ -386,6 +384,15 @@ body {
 	font-size: 20px;
 	padding-left: 29px;
 	color: #000;
+}
+textarea:focus,
+input:focus {
+	outline: none;
+}
+::placeholder {
+	/* Chrome, Firefox, Opera, Safari 10.1+ */
+	color: #000;
+	opacity: 1; /* Firefox */
 }
 #subscribe {
 	font-size: 22px;
