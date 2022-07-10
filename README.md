@@ -13,6 +13,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [contac](#contact)
 
 ## General info
 
@@ -33,6 +34,13 @@ This project is an online store for the AgriPlus agricultural cooperative, which
 ## Program Setup
 
 To run this project, clone or download it from git hub. Using Live server or your developers environment(Text Editor), start the server using Live server extention
+
+## Contact
+
+    emain: dennisouma38@gmail.com
+
+linkedin:
+https://www.linkedin.com/in/denisouma/
 
 ## Live GitHub Pages Link
 
