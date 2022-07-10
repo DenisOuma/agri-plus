@@ -469,11 +469,10 @@ input:focus {
 	align-items: center;
 	justify-content: space-between;
 }
-/* .first-li-column {
+.first-li-column {
 	margin-left: 70px;
 
 	height: 200px;
-
 }
 .left-container {
 	margin-top: 110px;
@@ -488,4 +487,4 @@ input:focus {
 .terms {
 	font-size: 16px !important;
 	font-weight: 600;
-} */
+}
